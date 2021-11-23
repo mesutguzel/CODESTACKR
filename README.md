@@ -8,3 +8,6 @@ I'm a Web Developer!!
 
 ⚡ Recent GitHub Activity
 ⚡ GitHub Stats
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
